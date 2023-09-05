@@ -10,7 +10,7 @@
 .upper{
     display:flex;
     background-color: #FFCD9E;    
-    
+    justify-content:space-between;
     height: 592px;
     
 
