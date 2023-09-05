@@ -3,14 +3,14 @@
     padding: 0px;
 }
 .container{
-    width: 100vw;
+    width: 98vw;
     
 }
 
 .upper{
     display:flex;
     background-color: #FFCD9E;    
-    justify-content:space-between;
+    justify-content: space-between;
     height: 592px;
     
 
